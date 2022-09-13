@@ -1,3 +1,6 @@
+# 3.1.2
+* Fix Stored properties cannot be marked potentially unavailable with '@available' error
+
 # 3.1.1
 
 * Upgrade kotlin version.
